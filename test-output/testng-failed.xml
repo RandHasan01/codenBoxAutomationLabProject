@@ -5,8 +5,8 @@
     <classes>
       <class name="codenboxautomationlab1.codenboxautomationlab1.AppTest">
         <methods>
-          <include name="Static_Dropdown"/>
           <include name="mySetup"/>
+          <include name="HideAndShow"/>
         </methods>
       </class> <!-- codenboxautomationlab1.codenboxautomationlab1.AppTest -->
     </classes>
